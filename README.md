@@ -1,6 +1,3 @@
-data = pd.read_csv("https://www.dropbox.com/scl/fi/6grt5efg3v9ihopu4vky0/KIELMC.csv?rlkey=vmtq4ub25gtnn620x65vtgo6d&dl=1")
-
-
 # 2023 Semester 2 ADA
 
 Tutorial materials and code prepared by Zheng Fan for Advanced Data Analysis at the University of Melbourne for the use of running tutorials.
